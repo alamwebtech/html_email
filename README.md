@@ -1,1 +1,1 @@
-# html_email
+# creating responsive html_email
